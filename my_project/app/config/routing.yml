@@ -1,0 +1,3 @@
+leaderboard:
+    resource: "@LeaderboardBundle/Resources/config/routing.yml"
+    prefix:   /
